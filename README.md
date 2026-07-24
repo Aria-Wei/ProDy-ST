@@ -1,2 +1,2 @@
 # ProDy-ST
-Official code for “Progressive Dynamic Adaptation for Reliable Cross-User EEG Decoding in Brain-Computer Interfaces.”
+Official code for “Progressive dynamic adaptation: A reliable self-training framework for cross-subject motor imagery EEG decoding”.

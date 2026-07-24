@@ -1,2 +1,5 @@
 # ProDy-ST
-Official code for “Progressive dynamic adaptation: A reliable self-training framework for cross-subject motor imagery EEG decoding”.
+Official implementation of “Progressive Dynamic Adaptation: A Reliable Self-Training Framework for Cross-Subject Motor Imagery EEG Decoding.”
+
+This repository currently provides the model implementation. Additional code will be released soon.
+
